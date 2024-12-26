@@ -36,6 +36,8 @@ sections:
             - pb-2
             - pl-1
             - pr-1
+          margin:
+            - mt-4
     colors: bg-light-fg-dark
     styles:
       self:
