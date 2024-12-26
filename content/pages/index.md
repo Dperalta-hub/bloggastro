@@ -6,7 +6,7 @@ sections:
     title:
       type: TitleBlock
       text: BLOG DE SALUD DIGESTIVA
-      color: text-dark
+      color: text-neutral
     subtitle: Increase your reach
     text: >
       A service that helps businesses to manage their social media accounts and
