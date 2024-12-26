@@ -39,7 +39,7 @@ sections:
           margin:
             - mt-20
             - mb-20
-            - mr-7
+            - mr-20
             - ml-8
           borderColor: border-neutralAlt
           borderStyle: solid
