@@ -40,7 +40,7 @@ sections:
             - mt-20
             - mb-20
             - mr-20
-            - ml-8
+            - ml-20
           borderColor: border-neutralAlt
           borderStyle: solid
     colors: bg-light-fg-dark
