@@ -42,6 +42,7 @@ sections:
             - mr-7
             - ml-8
           borderColor: border-neutralAlt
+          borderStyle: solid
     colors: bg-light-fg-dark
     styles:
       self:
