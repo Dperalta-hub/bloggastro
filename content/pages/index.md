@@ -37,7 +37,7 @@ sections:
             - pl-24
             - pr-20
           margin:
-            - mt-4
+            - mt-20
             - mb-5
             - mr-7
             - ml-8
