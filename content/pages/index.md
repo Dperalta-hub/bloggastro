@@ -39,6 +39,7 @@ sections:
           margin:
             - mt-4
             - mb-5
+            - mr-7
     colors: bg-light-fg-dark
     styles:
       self:
