@@ -8,9 +8,8 @@ sections:
       text: BLOG DE SALUD DIGESTIVA
       color: text-primary
     subtitle: Dr Peralta Daniel
-    text: >
-      A service that helps businesses to manage their social media accounts and
-      posts.
+    text: |
+      Un servicio informativo para el publico en en genral 
     actions:
       - type: Button
         label: Get started
