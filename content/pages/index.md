@@ -8,8 +8,9 @@ sections:
       text: BLOG DE SALUD DIGESTIVA
       color: text-primary
     subtitle: Dr Peralta Daniel
-    text: |
-      Un servicio informativo para el publico en en genral 
+    text: >
+      Un servicio informativo, de prevencion y un canal de comunicacion para el
+      publico en en genral 
     actions:
       - type: Button
         label: Get started
