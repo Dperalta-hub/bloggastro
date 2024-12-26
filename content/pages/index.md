@@ -5,7 +5,7 @@ sections:
   - type: GenericSection
     title:
       type: TitleBlock
-      text: pagina 1
+      text: BLOG DE SALUD DIGESTIVA
       color: text-dark
     subtitle: Increase your reach
     text: >
