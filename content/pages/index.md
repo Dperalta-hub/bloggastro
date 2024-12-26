@@ -35,7 +35,7 @@ sections:
             - pt-1
             - pb-12
             - pl-1
-            - pr-1
+            - pr-20
           margin:
             - mt-4
             - mb-5
