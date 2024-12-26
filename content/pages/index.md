@@ -40,6 +40,7 @@ sections:
             - mt-4
             - mb-5
             - mr-7
+            - ml-8
     colors: bg-light-fg-dark
     styles:
       self:
