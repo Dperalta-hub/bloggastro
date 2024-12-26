@@ -29,6 +29,10 @@ sections:
       type: ImageBlock
       url: /images/WhatsApp Image 2020-05-02 at 10.33.06 AM.jpeg
       altText: Fun feature preview
+      styles:
+        self:
+          padding:
+            - pt-1
     colors: bg-light-fg-dark
     styles:
       self:
