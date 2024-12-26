@@ -38,7 +38,7 @@ sections:
             - pr-20
           margin:
             - mt-20
-            - mb-5
+            - mb-20
             - mr-7
             - ml-8
           borderColor: border-neutralAlt
