@@ -1,5 +1,5 @@
 ---
-title: Home
+title: Blog de Salud Digestiva
 slug: /
 sections:
   - type: GenericSection
