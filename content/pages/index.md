@@ -10,7 +10,7 @@ sections:
     subtitle: Dr Peralta Daniel
     text: >
       Un servicio informativo, de prevencion y un canal de comunicacion para el
-      publico en en genral 
+      publico en en general.
     actions:
       - type: Button
         label: Get started
