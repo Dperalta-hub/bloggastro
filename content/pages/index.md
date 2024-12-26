@@ -41,6 +41,7 @@ sections:
             - mb-5
             - mr-7
             - ml-8
+          borderColor: border-neutralAlt
     colors: bg-light-fg-dark
     styles:
       self:
