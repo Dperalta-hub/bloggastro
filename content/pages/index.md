@@ -2,6 +2,36 @@
 title: Blog de Salud Digestiva
 slug: /
 sections:
+  - type: GenericSection
+    title:
+      type: TitleBlock
+      text: BLOG DE SALUD DIGESTIVA
+      color: text-primary
+    subtitle: Dr Peralta Daniel
+    text: |
+      Un servicio informativo para el publico en en genral 
+    actions:
+      - type: Button
+        label: Get started
+        url: /
+        icon: arrowRight
+        iconPosition: right
+        style: secondary
+      - type: Link
+        label: See Tutorials
+        url: /
+        showIcon: true
+        icon: arrowRight
+        iconPosition: right
+        style: primary
+    media:
+      type: ImageBlock
+      url: /images/WhatsApp Image 2020-05-02 at 10.33.06 AM.jpeg
+      altText: Fun feature preview
+    colors: bg-light-fg-dark
+    styles:
+      self:
+        alignItems: center
   - type: FeaturedItemsSection
     title:
       text: Key Benefits
@@ -119,36 +149,6 @@ sections:
         justifyContent: center
       subtitle:
         textAlign: center
-  - type: GenericSection
-    title:
-      type: TitleBlock
-      text: BLOG DE SALUD DIGESTIVA
-      color: text-primary
-    subtitle: Dr Peralta Daniel
-    text: |
-      Un servicio informativo para el publico en en genral 
-    actions:
-      - type: Button
-        label: Get started
-        url: /
-        icon: arrowRight
-        iconPosition: right
-        style: secondary
-      - type: Link
-        label: See Tutorials
-        url: /
-        showIcon: true
-        icon: arrowRight
-        iconPosition: right
-        style: primary
-    media:
-      type: ImageBlock
-      url: /images/WhatsApp Image 2020-05-02 at 10.33.06 AM.jpeg
-      altText: Fun feature preview
-    colors: bg-light-fg-dark
-    styles:
-      self:
-        alignItems: center
   - title:
       text: Generic Section With A Form
       color: text-dark
