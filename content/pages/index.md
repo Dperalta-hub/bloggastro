@@ -27,7 +27,7 @@ sections:
         style: primary
     media:
       type: ImageBlock
-      url: /images/hero2.svg
+      url: /images/WhatsApp Image 2020-05-02 at 10.33.06 AM.jpeg
       altText: Fun feature preview
     colors: bg-light-fg-dark
     styles:
