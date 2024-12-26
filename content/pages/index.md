@@ -7,7 +7,7 @@ sections:
       type: TitleBlock
       text: BLOG DE SALUD DIGESTIVA
       color: text-primary
-    subtitle: Increase your reach
+    subtitle: Dr Peralta Daniel
     text: >
       A service that helps businesses to manage their social media accounts and
       posts.
