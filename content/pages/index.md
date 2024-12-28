@@ -95,7 +95,7 @@ sections:
             self:
               borderRadius: x-large
       - title: ''
-        subtitle: Faster
+        subtitle: ''
         text: >+
           El sistema digestivo es un engranaje complejo pero bien coordinado que
           nos permite obtener energía y nutrientes esenciales. Comprender su
