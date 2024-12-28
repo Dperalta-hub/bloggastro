@@ -130,10 +130,27 @@ sections:
       - type: FeaturedItem
         title: 500k
         subtitle: Numbers Done
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: >+
+          El sistema digestivo es un conjunto de órganos que trabajan en
+          conjunto para descomponer los alimentos, absorber los nutrientes y
+          eliminar los desechos. Este proceso, conocido como digestión, es vital
+          para que el cuerpo obtenga las sustancias necesarias para el
+          crecimiento, la reparación y el funcionamiento diario.
+
+
+          El sistema digestivo se divide en dos partes principales:
+
+
+          *   **Tracto gastrointestinal (GI):** Un tubo largo que va desde la
+          boca hasta el ano, pasando por varios órganos.
+
+
+          *   **Órganos accesorios:** Como el hígado, el páncreas y la vesícula
+          biliar, que ayudan en la digestión pero no forman parte del tubo
+          principal.
+
+
+
         image:
           type: ImageBlock
           url: /images/icon1.svg
