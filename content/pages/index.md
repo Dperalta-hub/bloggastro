@@ -46,7 +46,7 @@ sections:
     items:
       - type: FeaturedItem
         title: ''
-        subtitle: Numbers Done
+        subtitle: Sistema digestivo
         text: >+
           ###
 
