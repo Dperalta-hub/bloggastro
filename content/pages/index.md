@@ -198,8 +198,10 @@ sections:
       color: text-dark
       type: TitleBlock
     subtitle: ''
-    text: |
-      Este espacio es para las consultas en general y respuestas. 
+    text: >
+      Este espacio es para las consultas en general y respuestas. Debes escribir
+      tu nombre, correo electronico y la consulta en si. Recibiras una respuesta
+      en corto tiempo.
     media:
       fields:
         - name: name
