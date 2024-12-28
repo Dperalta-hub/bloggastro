@@ -94,7 +94,7 @@ sections:
           styles:
             self:
               borderRadius: x-large
-      - title: 200%
+      - title: ''
         subtitle: Faster
         text: >+
           El sistema digestivo es un engranaje complejo pero bien coordinado que
