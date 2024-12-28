@@ -94,39 +94,6 @@ sections:
           styles:
             self:
               borderRadius: x-large
-      - title: 20x
-        subtitle: The Job Stuff
-        text: >+
-          El sistema digestivo es un engranaje complejo pero bien coordinado que
-          nos permite obtener energía y nutrientes esenciales. Comprender su
-          funcionamiento no solo nos ayuda a cuidar nuestra salud, sino también
-          a identificar posibles problemas antes de que se vuelvan graves. Si
-          tienes dudas o inquietudes sobre tu sistema digestivo, este es el
-          espacio para compartirlas y encontrar respuestas.
-
-
-
-
-
-        image:
-          url: /images/icon2.svg
-          altText: Featured icon two
-          elementId: ''
-          type: ImageBlock
-        actions: []
-        colors: bg-neutral-fg-dark
-        styles:
-          self:
-            padding:
-              - pt-8
-              - pl-8
-              - pb-8
-              - pr-8
-            borderRadius: x-large
-            flexDirection: row
-            textAlign: left
-            justifyContent: center
-        type: FeaturedItem
       - title: 200%
         subtitle: Faster
         text: >-
