@@ -27,7 +27,7 @@ sections:
         style: primary
     media:
       type: ImageBlock
-      url: /images/WhatsApp Image 2020-05-02 at 10.33.06 AM.jpeg
+      url: /images/_cf006d48-cfe0-431d-9cfb-0f5af3dac259.jpg
       altText: Fun feature preview
       styles:
         self:
