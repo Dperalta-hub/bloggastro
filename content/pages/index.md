@@ -46,7 +46,7 @@ sections:
     items:
       - type: FeaturedItem
         title: ''
-        subtitle: Sistema digestivo
+        subtitle: Como mantener un sistema digestivo saludable.
         text: >+
           ###
 
