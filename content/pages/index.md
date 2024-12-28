@@ -11,14 +11,7 @@ sections:
     text: >
       Un lugar informativo, de prevencion y un canal de comunicacion para el
       publico en general.
-    actions:
-      - type: Link
-        label: See Tutorials
-        url: /
-        showIcon: true
-        icon: arrowRight
-        iconPosition: right
-        style: primary
+    actions: []
     media:
       type: ImageBlock
       url: /images/_cf006d48-cfe0-431d-9cfb-0f5af3dac259.jpg
