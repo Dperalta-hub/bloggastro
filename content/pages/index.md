@@ -34,10 +34,6 @@ sections:
     styles:
       self:
         alignItems: center
-    badge:
-      type: Badge
-      label: This is a badge
-      color: text-primary
   - type: FeaturedItemsSection
     title:
       text: ''
