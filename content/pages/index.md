@@ -128,7 +128,7 @@ sections:
             flexDirection: row
         type: FeaturedItem
       - type: FeaturedItem
-        title: 500k
+        title: "Que es el\_ sistema digestivo."
         subtitle: Numbers Done
         text: >+
           El sistema digestivo es un conjunto de órganos que trabajan en
