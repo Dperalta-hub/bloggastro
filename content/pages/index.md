@@ -12,12 +12,6 @@ sections:
       Un lugar informativo, de prevencion y un canal de comunicacion para el
       publico en general.
     actions:
-      - type: Button
-        label: Get started
-        url: /
-        icon: arrowRight
-        iconPosition: right
-        style: secondary
       - type: Link
         label: See Tutorials
         url: /
