@@ -129,7 +129,7 @@ sections:
         type: FeaturedItem
       - type: FeaturedItem
         title: "Que es el\_ sistema digestivo."
-        subtitle: Numbers Done
+        subtitle: ''
         text: >+
           El sistema digestivo es un conjunto de órganos que trabajan en
           conjunto para descomponer los alimentos, absorber los nutrientes y
