@@ -51,31 +51,26 @@ sections:
           ###
 
 
-          1.  **Come una dieta equilibrada:** Rica en frutas, verduras, granos
-          integrales y alimentos fermentados.
+          1.  **Dieta equilibrada:** Rica en frutas, verduras, granos integrales
+          y alimentos fermentados.
 
 
-          2.  **Bebe suficiente agua:** Ayuda a mantener las heces suaves y a
+          2.  **Ingerir suficiente agua:** Ayuda a mantener las heces suaves y a
           prevenir el estreñimiento.
 
 
-          3.  **Haz ejercicio regularmente:** Mejora el peristaltismo
-          intestinal.
+          3.  **Ejercicio regularmente:** Mejora el peristaltismo intestinal.
 
 
-          4.  **Evita el exceso de alcohol y alimentos ultraprocesados.**
+          4.  **Evitar el exceso de alcohol y alimentos ultraprocesados.**
 
 
-          5.  **Mastica bien los alimentos:** Facilita el trabajo del estómago e
-          intestinos.
+          5.  **Masticar  bien los alimentos:** Facilita el trabajo del estómago
+          e intestinos.
 
 
-          6.  **Consulta a un médico si tienes síntomas persistentes:** Como
+          6.  **Consultar  a un médico si tienes síntomas persistentes:** Como
           acidez, dolor abdominal o cambios en el hábito intestinal.
-
-
-
-
 
         actions: []
         elementId: null
