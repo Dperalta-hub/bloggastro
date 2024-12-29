@@ -22,7 +22,7 @@ sections:
             - pt-1
             - pb-12
             - pl-24
-            - pr-20
+            - pr-8
           margin:
             - mt-20
             - mb-20
